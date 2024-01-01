@@ -1,0 +1,13 @@
+Hair cut,50,5
+Beard trim,15,5
+Hair cut and beard trim,60,10
+Shampoo,25,10
+Shave,20,8
+Shampoo and shave,40,10
+Shampoo and hair cut,60,10
+Shampoo hair cut and shave,75,10
+Shampoo hair cut and beard trim,65,10
+Shampoo hair cut shave and beard trim,80,10
+Children's hair cut,25,5
+Children's hair cut and shampoo,40,5
+Coloring hair,250,70
