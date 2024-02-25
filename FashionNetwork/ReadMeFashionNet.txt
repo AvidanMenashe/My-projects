@@ -12,9 +12,7 @@ examples from the same class). Label each row by the class name.
 3. Neural Network with One Hidden Layer- here I implemented a NN with one hidden layer and train it on the Fashion-MNIST dataset.
 I achieved an accuracy rate of 88.548%.
 
-Restrictions:
-1. The files - train.csv and test.csv need to be in the same folder of the code file - main_Fashion_Net
-
-2. In the training part of the Logistic Regression Classifier and of the Neural Network with One Hidden Layer, I saved the best weight of the model I get from all the epochs.
+Restriction:
+ In the training part of the Logistic Regression Classifier and of the Neural Network with One Hidden Layer, I saved the best weight of the model I get from all the epochs.
 Then, I set the weight of the model to the best weight before I will start the test part, by this, I enable to the model take the best weights from the training part
 that it is not necessarily the weight I get from the last epoch in the training part. 
